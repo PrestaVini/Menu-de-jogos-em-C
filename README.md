@@ -45,7 +45,7 @@ central-de-jogos/
 ├── main.c
 └── README.md
 
-Conceitos praticados
+Conceitos praticados:
 
 -Funções
 -Structs
