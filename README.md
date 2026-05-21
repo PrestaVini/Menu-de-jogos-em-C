@@ -40,7 +40,7 @@ jogos.exe
 Linux/macOS
 ./jogos
 
-Estrutura do projeto
+Estrutura do projeto:
 central-de-jogos/
 ├── main.c
 └── README.md
